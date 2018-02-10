@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "609835991992",
+    "firebase_url": "https://quarkhackathon18.firebaseio.com",
+    "project_id": "quarkhackathon18",
+    "storage_bucket": "quarkhackathon18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609835991992:android:c22b97418a6078a9",
+        "android_client_info": {
+          "package_name": "com.example.shreyas.hackathon_quark17"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609835991992-8n2slisa8gdeqsj7f3jqem9mh02njf1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBASVq8rgQPrCdM5etj2lAJqc1u02hfPTI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
